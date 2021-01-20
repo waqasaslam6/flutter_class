@@ -5,7 +5,7 @@ void main()
 {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: "First Apphgfhgfjh ",
+    title: "First App ",
     home: Dashboard(),
     theme: ThemeData(
       primaryColor: Colors.red
